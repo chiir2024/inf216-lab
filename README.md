@@ -34,3 +34,5 @@ This repository serves as a starting point for managing data science projects us
 - For advanced Git features (e.g., branching), explore GitHub’s web interface or a local Git setup.
 
 ## Example Dependencies
+pandas==1.5.3
+matplotlib==3.7.1
