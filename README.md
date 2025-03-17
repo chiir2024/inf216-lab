@@ -13,15 +13,15 @@ This repository serves as a starting point for managing data science projects us
 2. **Clone to Google Drive**:
    - Open Google Colab: `https://colab.research.google.com`.
    - Mount your Drive: `from google.colab import drive; drive.mount('/content/drive')`.
-   - Clone the repo: `!git clone https://github.com/<your-username>/inf216-lab.git /content/drive/MyDrive/INF216-week9lab/repo`.
+   - Clone the repo: `!git clone https://github.com/<your-username>/inf216-lab.git /content/drive/MyDrive/INF216/week9-repo`.
 3. **Open the Notebook**:
-   - Navigate to `/content/drive/MyDrive/INF216-week9lab/repo/example.ipynb` in Colab and open it.
+   - Navigate to `/content/drive/MyDrive/INF216/week9-repo/example.ipynb` in Colab and open it.
 4. **Install Dependencies**:
-   - Run: `!pip install -r /content/drive/MyDrive/ds-lab/repo/requirements.txt` in a Colab cell to install required packages.
+   - Run: `!pip install -r /content/drive/MyDrive/INF216/week9-repo/requirements.txt` in a Colab cell to install required packages.
 
 ## Usage
 - **Version Control**:
-  - Modify `example.ipynb` (e.g., add a plot or analysis).
+  - Modify `example.ipynb` (e.g., add additional plots and/or analyses related to the UN SDGs Good Health and Well-Being and Reduced Inequalities).
   - Save changes to Drive (File > Save).
   - Commit to GitHub: File > Save a copy to GitHub, select your repo, and add a commit message.
 - **Collaboration**:
